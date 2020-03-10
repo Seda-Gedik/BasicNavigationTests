@@ -16,9 +16,6 @@ public class NavigationTests {
         HW("firefox");
         HW("chrome");
 
-
-
-
     }
 
     public static void HW(String name){
